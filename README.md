@@ -1,11 +1,10 @@
-# typescript-sandbox
+# Bootcamp JavaScript 2 - Lemoncode
 
-Para la parte de cada módulo en la que te planteamos ejercicios con JavaScript puedes usar este sandbox.
+## Laboratorio Módulo 2 - Tipos de datos y Operadores
 
-Pasos:
+Este ejercicio es parte del Bootcamp de Javascript de Lemoncode y representa la tercera entrega correspondiente al Módulo 2 de Tipos de datos y Operadores. Se trata de una introducción a los conceptos básicos de programación, los tipos de datos que existen, los diferentes operadores y cómo se comportan, además de presentar el uso de TypeScript y su utilidad en el manejo de errores.
 
-- Clonate el proyecto.
-- Instala las dependencias con `npm install`.
-- Ejecuta el sandbox con `npm run dev`.
-- Abre el navegador en `http://localhost:5173/` (si ese puerto no te funciona, mira en la consola donde has hecho el build, puede que este ocupado y se haya abierto en otro puerto).
-- Puedes empezar a meter tu código en el fichero:
+## Autor
+
+Este ejercicio ha sido desarrollado por Guste Gaubaite, como parte del Bootcamp de Javascript de Lemoncode.
+
